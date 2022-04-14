@@ -7,5 +7,5 @@ Hi, my name is Tiago, I'm 20 years old and I'm a developer, fascinated by techno
 - Firebase
 
 **📄 Some projects**
-- [AluraQuiz](aluraquiz-esfinge.vercel.app): Project created during Alura's "Immersion React" event. It's a little quiz game.
-- [move.it](moveit-eta-roan.vercel.app): Developed during the fourth edition of the Rocketseat NLW event, this is an application that encourages the practice of physical exercises and stretching during the workday
+- [AluraQuiz](https://aluraquiz-esfinge.vercel.app): Project created during Alura's "Immersion React" event. It's a little quiz game.
+- [move.it](https://moveit-eta-roan.vercel.app): Developed during the fourth edition of the Rocketseat NLW event, this is an application that encourages the practice of physical exercises and stretching during the workday
