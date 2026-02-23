@@ -1,29 +1,31 @@
 # Hi, I'm Tiago 👋
 
-I'm a 22-year-old developer with a deep fascination for technology and a strong drive to create solutions that add value to people's lives. With a solid foundation in front-end development, I have been honing my skills and expertise at Agência e-Plus for the past 2 years, focusing primarily on e-commerce development with the VTEX platform.
+I'm a **24-year-old Fullstack Developer** with a deep fascination for technology and a strong drive to create solutions that add value to people's lives. Currently, I'm leveraging my experience to build robust applications at **SysMap Solutions**, focusing on delivering high-quality code and scalable systems.
 
 ## 💻 Technologies & Tools
-Here are some of the technologies and tools I frequently work with:
 
-### Front-End
-- **Languages:** HTML, CSS, JavaScript/TypeScript
-- **Frameworks & Libraries:** ReactJS, NextJS, Fresh, Tailwind CSS
+Here is my current tech stack, covering everything from UI to infrastructure:
 
-### Back-End
-- **Runtime:** NodeJS, Deno
+* **Languages & Frameworks:** JavaScript, TypeScript, ReactJS, NextJS, Fresh, Tailwind CSS, NodeJS, Deno.
+* **Infrastructure & DevOps:** Docker.
 
 ## 🎯 Skills & Expertise
-- Developing responsive and dynamic user interfaces.
-- Implementing modern JavaScript frameworks for enhanced functionality.
-- Integrating back-end services and databases to ensure seamless data flow.
-- Optimizing performance and ensuring cross-browser compatibility.
-- Collaborating effectively with designers, developers, and stakeholders.
+
+* **Fullstack Development:** Building end-to-end solutions from responsive interfaces to scalable back-end services.
+* **Modern Ecosystems:** Implementing modern JavaScript frameworks and runtimes for high-performance applications.
+* **System Integration:** Connecting front-end applications with complex back-end architectures and databases.
+* **Collaboration:** Working effectively in agile environments with cross-functional teams to deliver impactful products.
 
 ## 📚 I'm Learning
-I'm always looking to expand my knowledge and currently, I'm focusing on the following topics:
-- **SQL and Databases:** Improving my skills in data manipulation and relational database management.
-- **Automated Testing:** Enhancing my testing practices to ensure code quality and reliability.
-- **Docker:** Exploring containers to streamline development and deployment of applications.
-- **Performance:** Further optimizing web application performance for a better user experience.
 
-I'm continuously learning and exploring new technologies to stay updated with industry trends and to improve my skills further. Feel free to check out my repositories and projects to see some of my work. Let's connect and create something amazing together!
+Continuous improvement is part of my DNA. Currently, I'm diving deep into:
+
+* **Java:** Expanding my backend repertoire with one of the industry's most robust languages.
+* **SQL and Databases:** Refining my skills in data modeling and relational database management.
+* **Automated Testing:** Implementing rigorous testing patterns to ensure software reliability and long-term maintainability.
+
+---
+
+### Let's connect!
+
+I'm always open to discussing new technologies or collaborating on interesting projects. Feel free to explore my repositories or reach out!
